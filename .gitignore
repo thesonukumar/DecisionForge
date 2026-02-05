@@ -1,0 +1,10 @@
+# Ignore Jupyter junk
+.ipynb_checkpoints/
+notebooks/.ipynb_checkpoints/
+
+# Ignore raw data
+data/raw/
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
